@@ -8,8 +8,8 @@ Admin Login
 
 user front end login panel for both user admin
 
-Admin User: admin
-Admin Pass: admin123
+Admin User: Abhinay
+Admin Pass: 1111
 
 
 
@@ -20,8 +20,9 @@ Admin Pass: admin123
 More help 
 
 
-Contact at :  phptpoint@gmail.com
-                   901550189
+Contact at :  Technicalabhinay@gmail.com 
+                   Abhinay-kumar-singh(Git Hub)
+you can also view commit by cloning my project with git
 
 
 
