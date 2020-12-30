@@ -25,7 +25,8 @@ require('includes/config.php');
 					<div id="logo-wrap">
 						<div id="logo">
 								<?php
-									include("includes/logo.inc.php");
+									//file has been removed due to unwanted error
+							//include("includes/logo.inc.php");
 								?>
 						</div>
 					</div>

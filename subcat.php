@@ -78,7 +78,7 @@ require('includes/config.php');
 							?>
 					</div>
 					<!-- end sidebar -->
-					<div style="clear: both;">&nbsp;</div>
+					<div style="clear:"></div>
 				</div>
 			<!-- end page -->
 			

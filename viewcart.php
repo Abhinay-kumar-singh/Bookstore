@@ -23,7 +23,7 @@ require('includes/config.php');
 				<div id="logo-wrap">
 				<div id="logo">
 						<?php
-							include("includes/logo.inc.php");
+							//include("includes/logo.inc.php");
 						?>
 				</div>
 				</div>
@@ -52,7 +52,7 @@ require('includes/config.php');
 									<td> <b>Price
 									<td> <b>Delete
 								</tr>
-								<tr><td colspan="7"><hr style="border:1px Solid #a1a1a1;"></tr>
+								<tr><td colspan="7"><hr style="border:1px Solid #FF0004;"></tr>
 							
 								<?php
 									$tot = 0;

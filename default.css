@@ -152,7 +152,8 @@ input, textarea, select {
 	width: 820px;
 	height: 200px;
 	margin: 0 auto;
-	background: url(images/finnal.gif) no-repeat left top;
+	echo "insert img here (default.css in logo section)"
+	background: url() no-repeat left top;
 }
 
 #logo h1, #logo h2 {

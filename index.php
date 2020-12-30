@@ -22,7 +22,7 @@
 				<div id="logo-wrap">
 					<div id="logo">
 							<?php
-								include("includes/logo.inc.php");
+								//include("includes/logo.inc.php");
 							?>
 					</div>
 				</div>
@@ -53,7 +53,7 @@
 								
 								<object width="550" height="400">
 								<!--<param name="movie" value="somefilename.swf">-->
-								<embed src="HotHotSoftware3DMenu.swf" width="550" height="400">
+								<embed src="images/ASTRO1.jpg" width="550" height="400">
 								</embed>
 								</object>
 								<br><br>

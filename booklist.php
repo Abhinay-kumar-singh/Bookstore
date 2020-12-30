@@ -55,7 +55,7 @@ require('includes/config.php');
 				<div id="logo-wrap">
 					<div id="logo">
 							<?php
-								include("includes/logo.inc.php");
+								//include("includes/logo.inc.php");
 							?>
 					</div>
 				</div>
